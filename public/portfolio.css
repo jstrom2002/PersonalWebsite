@@ -39,12 +39,13 @@ li a:hover {
 
 
 
+
 body {
     background: #ffffff;
     background-size: cover;
     padding-top:50px;
 }
-fieldset{
+.parentField{
     width: 98%;
     height: 100%;
     border: solid silver;
@@ -52,8 +53,24 @@ fieldset{
     position: center;
     text-align: center;
 }
-.headshot{
-    border-radius: 50%;
+
+.row1{
+
+}
+.matrixmathPhoto{
+    width:9%;
+    height:9%;
+}
+.leftField{
+    width: 3%;
+    height: 30%;
+    display: inline;
+}
+.rightField{
+    width: 65%;
+    padding-top: 30px;
+    display: inline;
+    float:right;
 }
 .textIntroduction{
     display:inline;

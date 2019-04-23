@@ -37,23 +37,16 @@ li a:hover {
 }
 
 
-
-
 body {
     background: #ffffff;
     background-size: cover;
     padding-top:50px;
 }
 fieldset{
-    width: 98%;
-    height: 100%;
-    border: solid silver;
+    width: 70%;
     display: block;
     position: center;
     text-align: center;
-}
-.headshot{
-    border-radius: 50%;
 }
 .textIntroduction{
     display:inline;
@@ -68,4 +61,3 @@ fieldset{
     color: #222222;
     top:0;
 }
-
