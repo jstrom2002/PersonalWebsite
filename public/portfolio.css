@@ -36,15 +36,13 @@ li a:hover {
     background-color: #4CAF50;
 }
 
-
-
-
-
 body {
     background: #ffffff;
     background-size: cover;
     padding-top:50px;
 }
+
+
 .parentField{
     width: 98%;
     height: 100%;
@@ -52,6 +50,23 @@ body {
     display: block;
     position: center;
     text-align: center;
+}
+
+.textIntroduction{
+    background: lightgray;
+    text-align: center;
+    font-size: 45px;
+    color: #ffffff;
+    padding-top: 30px;
+    height:50px;
+}
+.introText{
+    background: lightgray;
+    text-align: center;
+    font-size: 45px;
+    color: #ffffff;
+    padding-top: 30px;
+    height:50px;
 }
 
 .row1{
@@ -72,11 +87,7 @@ body {
     display: inline;
     float:right;
 }
-.textIntroduction{
-    display:inline;
-    position: relative;
-    text-align: center;
-}
+
 .introText{
     font-family: Verdana, serif;
     text-align: center;
