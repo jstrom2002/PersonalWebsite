@@ -70,11 +70,20 @@ body {
 }
 
 .row1{
+    margin-bottom: 15px;
+}
+.row2{
+    margin-bottom: 15px;
 
 }
+
 .matrixmathPhoto{
     width:9%;
     height:9%;
+}
+.topoPhoto{
+    width:11%;
+    height:11%;
 }
 .leftField{
     width: 3%;
