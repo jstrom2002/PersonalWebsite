@@ -54,6 +54,9 @@ fieldset{
 }
 .headshot{
     border-radius: 50%;
+    height:10%;
+    width: 10%;
+    alignment: center;
 }
 .textIntroduction{
     display:inline;
@@ -61,10 +64,10 @@ fieldset{
     text-align: center;
 }
 .introText{
-    font-family: Verdana, serif;
+    font-family: "Segoe Script", serif;
     text-align: center;
     padding-right: 30px;
-    font-size: 1vw;
+    font-size: 22px;
     color: #222222;
     top:0;
 }
