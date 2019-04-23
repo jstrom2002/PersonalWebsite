@@ -41,12 +41,16 @@ body {
     background: #ffffff;
     background-size: cover;
     padding-top:50px;
+    display: block;
+    width: 99%;
+    position:center;
+    align-content: center;
 }
 fieldset{
-    width: 70%;
-    display: block;
-    position: center;
-    text-align: center;
+    align-content: center;
+    display: inline;
+    width: 98%;
+    text-align: left;
 }
 .textIntroduction{
     display:inline;
