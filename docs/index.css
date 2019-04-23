@@ -40,9 +40,12 @@ li a:hover {
 
 
 body {
+    position: absolute;
     background: #ffffff;
     background-size: cover;
     padding-top:50px;
+    height: 90%;
+    width: 99%;
 }
 fieldset{
     width: 98%;
@@ -54,18 +57,23 @@ fieldset{
 }
 .headshot{
     border-radius: 50%;
+    height:30%;
+    width: 10%;
+    alignment: center;
 }
 .textIntroduction{
     display:inline;
+    height: 100%;
     position: relative;
     text-align: center;
 }
 .introText{
-    font-family: Verdana, serif;
+    font-family: "Segoe Script", serif;
     text-align: center;
     padding-right: 30px;
-    font-size: 1vw;
+    font-size: 32px;
     color: #222222;
     top:0;
+    padding-top: 3%;
 }
 
