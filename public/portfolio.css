@@ -74,17 +74,48 @@ body {
 }
 .row2{
     margin-bottom: 15px;
-
+}
+.row3{
+    margin-bottom: 15px;
+}
+.row4{
+    margin-bottom: 15px;
 }
 
 .matrixmathPhoto{
-    width:9%;
-    height:9%;
+    width:150px;
+    height:150px;
 }
 .topoPhoto{
-    width:11%;
-    height:11%;
+    width:150px;
+    height:150px;
 }
+.URSCAphoto{
+    float:left;
+    width:250px;
+    height:150px;
+}
+.render2photo{
+    float:left;
+    width:150px;
+    height:150px;
+}
+.render3photo{
+    float:left;
+    width:150px;
+    height:150px;
+}
+.render4photo{
+    float:left;
+    width:150px;
+    height:150px;
+}
+.capstonePhoto{
+    width:150px;
+    height:150px;
+}
+
+
 .leftField{
     width: 3%;
     height: 30%;
