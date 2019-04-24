@@ -119,12 +119,12 @@ body {
 .leftField{
     width: 3%;
     height: 30%;
-    display: inline;
+    display: inline-block;
 }
 .rightField{
     width: 65%;
     padding-top: 30px;
-    display: inline;
+    display: inline-block;
     float:right;
 }
 
