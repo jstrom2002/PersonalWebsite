@@ -5,7 +5,7 @@ head{
 }
 
 /* horizontal navigation bar */
-ul {
+.menuBar{
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -43,8 +43,11 @@ body {
     padding-top:50px;
     display: block;
     width: 99%;
-    position:center;
+    position:absolute;
     align-content: center;
+}
+.languagesList{
+
 }
 fieldset{
     align-content: center;

@@ -37,9 +37,12 @@ li a:hover {
 }
 
 body {
+    position: relative;
     background: #ffffff;
     background-size: cover;
     padding-top:50px;
+    width:99%;
+    height: 90%;
 }
 
 
@@ -53,6 +56,7 @@ body {
 }
 
 .textIntroduction{
+    position: center;
     background: lightgray;
     text-align: center;
     font-size: 45px;
@@ -60,14 +64,7 @@ body {
     padding-top: 30px;
     height:50px;
 }
-.introText{
-    background: lightgray;
-    text-align: center;
-    font-size: 45px;
-    color: #ffffff;
-    padding-top: 30px;
-    height:50px;
-}
+
 
 .row1{
     margin-bottom: 15px;
@@ -83,34 +80,41 @@ body {
 }
 
 .matrixmathPhoto{
+    position: center;
     width:150px;
     height:150px;
 }
 .topoPhoto{
+    position: center;
     width:150px;
     height:150px;
 }
 .URSCAphoto{
+    position: center;
     float:left;
     width:250px;
     height:150px;
 }
 .render2photo{
+    position: center;
     float:left;
     width:150px;
     height:150px;
 }
 .render3photo{
+    position: center;
     float:left;
     width:150px;
     height:150px;
 }
 .render4photo{
+    position: center;
     float:left;
     width:150px;
     height:150px;
 }
 .capstonePhoto{
+    position: center;
     width:150px;
     height:150px;
 }
@@ -129,11 +133,15 @@ body {
 }
 
 .introText{
+    position: center;
     font-family: Verdana, serif;
     text-align: center;
+    padding-top:30px;
+    padding-bottom: 20px;
     padding-right: 30px;
-    font-size: 1vw;
-    color: #222222;
+    font-size: 200%;
+    background-color: black;
+    color: #ffffff;
     top:0;
+    height:50px;
 }
-
